@@ -1,3 +1,4 @@
 # stacked-pr
 
 A
+B
